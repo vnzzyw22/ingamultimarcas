@@ -1,0 +1,11 @@
+# Arquivos de trabalho e segredos que NÃO podem ir para a hospedagem
+scripts/.tmp
+assets-src
+backups
+.admin-credentials.txt
+.env*
+!.env.example
+test-results
+playwright-report
+node_modules
+.next

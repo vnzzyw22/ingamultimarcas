@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env*
+!.env.example
+playwright-report/
+test-results/
+.DS_Store
+scripts/.tmp/
+
+# credenciais geradas por scripts/create-admin.mts (NUNCA vão para o git)
+.admin-credentials.txt
+backups/

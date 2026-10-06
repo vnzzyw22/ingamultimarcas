@@ -13,3 +13,6 @@ scripts/.tmp/
 # credenciais geradas por scripts/create-admin.mts (NUNCA vão para o git)
 .admin-credentials.txt
 backups/
+
+.vercel
+.env*
